@@ -1,0 +1,14 @@
+C:\Users\Nitro\PracticeWork3\Task3_Indexer\bin\Debug\net9.0\Task3_Indexer.exe
+C:\Users\Nitro\PracticeWork3\Task3_Indexer\bin\Debug\net9.0\Task3_Indexer.deps.json
+C:\Users\Nitro\PracticeWork3\Task3_Indexer\bin\Debug\net9.0\Task3_Indexer.runtimeconfig.json
+C:\Users\Nitro\PracticeWork3\Task3_Indexer\bin\Debug\net9.0\Task3_Indexer.dll
+C:\Users\Nitro\PracticeWork3\Task3_Indexer\bin\Debug\net9.0\Task3_Indexer.pdb
+C:\Users\Nitro\PracticeWork3\Task3_Indexer\obj\Debug\net9.0\Task3_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\PracticeWork3\Task3_Indexer\obj\Debug\net9.0\Task3_Indexer.AssemblyInfoInputs.cache
+C:\Users\Nitro\PracticeWork3\Task3_Indexer\obj\Debug\net9.0\Task3_Indexer.AssemblyInfo.cs
+C:\Users\Nitro\PracticeWork3\Task3_Indexer\obj\Debug\net9.0\Task3_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\PracticeWork3\Task3_Indexer\obj\Debug\net9.0\Task3_Indexer.dll
+C:\Users\Nitro\PracticeWork3\Task3_Indexer\obj\Debug\net9.0\refint\Task3_Indexer.dll
+C:\Users\Nitro\PracticeWork3\Task3_Indexer\obj\Debug\net9.0\Task3_Indexer.pdb
+C:\Users\Nitro\PracticeWork3\Task3_Indexer\obj\Debug\net9.0\Task3_Indexer.genruntimeconfig.cache
+C:\Users\Nitro\PracticeWork3\Task3_Indexer\obj\Debug\net9.0\ref\Task3_Indexer.dll
