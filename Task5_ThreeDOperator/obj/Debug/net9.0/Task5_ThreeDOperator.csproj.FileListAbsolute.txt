@@ -1,0 +1,14 @@
+C:\Users\Nitro\PracticeWork3\Task5_ThreeDOperator\bin\Debug\net9.0\Task5_ThreeDOperator.exe
+C:\Users\Nitro\PracticeWork3\Task5_ThreeDOperator\bin\Debug\net9.0\Task5_ThreeDOperator.deps.json
+C:\Users\Nitro\PracticeWork3\Task5_ThreeDOperator\bin\Debug\net9.0\Task5_ThreeDOperator.runtimeconfig.json
+C:\Users\Nitro\PracticeWork3\Task5_ThreeDOperator\bin\Debug\net9.0\Task5_ThreeDOperator.dll
+C:\Users\Nitro\PracticeWork3\Task5_ThreeDOperator\bin\Debug\net9.0\Task5_ThreeDOperator.pdb
+C:\Users\Nitro\PracticeWork3\Task5_ThreeDOperator\obj\Debug\net9.0\Task5_ThreeDOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\PracticeWork3\Task5_ThreeDOperator\obj\Debug\net9.0\Task5_ThreeDOperator.AssemblyInfoInputs.cache
+C:\Users\Nitro\PracticeWork3\Task5_ThreeDOperator\obj\Debug\net9.0\Task5_ThreeDOperator.AssemblyInfo.cs
+C:\Users\Nitro\PracticeWork3\Task5_ThreeDOperator\obj\Debug\net9.0\Task5_ThreeDOperator.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\PracticeWork3\Task5_ThreeDOperator\obj\Debug\net9.0\Task5_ThreeDOperator.dll
+C:\Users\Nitro\PracticeWork3\Task5_ThreeDOperator\obj\Debug\net9.0\refint\Task5_ThreeDOperator.dll
+C:\Users\Nitro\PracticeWork3\Task5_ThreeDOperator\obj\Debug\net9.0\Task5_ThreeDOperator.pdb
+C:\Users\Nitro\PracticeWork3\Task5_ThreeDOperator\obj\Debug\net9.0\Task5_ThreeDOperator.genruntimeconfig.cache
+C:\Users\Nitro\PracticeWork3\Task5_ThreeDOperator\obj\Debug\net9.0\ref\Task5_ThreeDOperator.dll
