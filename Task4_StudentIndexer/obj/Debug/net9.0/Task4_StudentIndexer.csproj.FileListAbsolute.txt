@@ -1,0 +1,14 @@
+C:\Users\Nitro\PracticeWork3\Task4_StudentIndexer\bin\Debug\net9.0\Task4_StudentIndexer.exe
+C:\Users\Nitro\PracticeWork3\Task4_StudentIndexer\bin\Debug\net9.0\Task4_StudentIndexer.deps.json
+C:\Users\Nitro\PracticeWork3\Task4_StudentIndexer\bin\Debug\net9.0\Task4_StudentIndexer.runtimeconfig.json
+C:\Users\Nitro\PracticeWork3\Task4_StudentIndexer\bin\Debug\net9.0\Task4_StudentIndexer.dll
+C:\Users\Nitro\PracticeWork3\Task4_StudentIndexer\bin\Debug\net9.0\Task4_StudentIndexer.pdb
+C:\Users\Nitro\PracticeWork3\Task4_StudentIndexer\obj\Debug\net9.0\Task4_StudentIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\PracticeWork3\Task4_StudentIndexer\obj\Debug\net9.0\Task4_StudentIndexer.AssemblyInfoInputs.cache
+C:\Users\Nitro\PracticeWork3\Task4_StudentIndexer\obj\Debug\net9.0\Task4_StudentIndexer.AssemblyInfo.cs
+C:\Users\Nitro\PracticeWork3\Task4_StudentIndexer\obj\Debug\net9.0\Task4_StudentIndexer.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\PracticeWork3\Task4_StudentIndexer\obj\Debug\net9.0\Task4_StudentIndexer.dll
+C:\Users\Nitro\PracticeWork3\Task4_StudentIndexer\obj\Debug\net9.0\refint\Task4_StudentIndexer.dll
+C:\Users\Nitro\PracticeWork3\Task4_StudentIndexer\obj\Debug\net9.0\Task4_StudentIndexer.pdb
+C:\Users\Nitro\PracticeWork3\Task4_StudentIndexer\obj\Debug\net9.0\Task4_StudentIndexer.genruntimeconfig.cache
+C:\Users\Nitro\PracticeWork3\Task4_StudentIndexer\obj\Debug\net9.0\ref\Task4_StudentIndexer.dll
