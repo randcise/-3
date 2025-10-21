@@ -1,0 +1,14 @@
+C:\Users\Nitro\PracticeWork3\Task2_BookOverload\bin\Debug\net9.0\Task2_BookOverload.exe
+C:\Users\Nitro\PracticeWork3\Task2_BookOverload\bin\Debug\net9.0\Task2_BookOverload.deps.json
+C:\Users\Nitro\PracticeWork3\Task2_BookOverload\bin\Debug\net9.0\Task2_BookOverload.runtimeconfig.json
+C:\Users\Nitro\PracticeWork3\Task2_BookOverload\bin\Debug\net9.0\Task2_BookOverload.dll
+C:\Users\Nitro\PracticeWork3\Task2_BookOverload\bin\Debug\net9.0\Task2_BookOverload.pdb
+C:\Users\Nitro\PracticeWork3\Task2_BookOverload\obj\Debug\net9.0\Task2_BookOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\PracticeWork3\Task2_BookOverload\obj\Debug\net9.0\Task2_BookOverload.AssemblyInfoInputs.cache
+C:\Users\Nitro\PracticeWork3\Task2_BookOverload\obj\Debug\net9.0\Task2_BookOverload.AssemblyInfo.cs
+C:\Users\Nitro\PracticeWork3\Task2_BookOverload\obj\Debug\net9.0\Task2_BookOverload.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\PracticeWork3\Task2_BookOverload\obj\Debug\net9.0\Task2_BookOverload.dll
+C:\Users\Nitro\PracticeWork3\Task2_BookOverload\obj\Debug\net9.0\refint\Task2_BookOverload.dll
+C:\Users\Nitro\PracticeWork3\Task2_BookOverload\obj\Debug\net9.0\Task2_BookOverload.pdb
+C:\Users\Nitro\PracticeWork3\Task2_BookOverload\obj\Debug\net9.0\Task2_BookOverload.genruntimeconfig.cache
+C:\Users\Nitro\PracticeWork3\Task2_BookOverload\obj\Debug\net9.0\ref\Task2_BookOverload.dll
